@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "물II_이중진자프로그램", "물II_이중진자프로그램.csproj", "{9008BCC4-3620-4FAF-97D0-E39A4D588203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9008BCC4-3620-4FAF-97D0-E39A4D588203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9008BCC4-3620-4FAF-97D0-E39A4D588203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9008BCC4-3620-4FAF-97D0-E39A4D588203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9008BCC4-3620-4FAF-97D0-E39A4D588203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4C8417D-7EBC-4BD6-B49C-C2C44A09A040}
+	EndGlobalSection
+EndGlobal

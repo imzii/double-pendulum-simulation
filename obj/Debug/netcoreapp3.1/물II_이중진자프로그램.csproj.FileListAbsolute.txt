@@ -1,0 +1,46 @@
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.exe
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.deps.json
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.json
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.dev.json
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csprojAssemblyReference.cache
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.Form1.resources
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.GenerateResource.cache
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfoInputs.cache
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfo.cs
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.CoreCompileInputs.cache
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+C:\Users\임지훈\source\repos\물II_이중진자프로그램\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.genruntimeconfig.cache
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.exe
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.deps.json
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.json
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.dev.json
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.AssemblyReference.cache
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.Form1.resources
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.GenerateResource.cache
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.GeneratedMSBuildEditorConfig.editorconfig
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfoInputs.cache
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfo.cs
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.CoreCompileInputs.cache
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+D:\대학 입시\고등학교 과제\프로그래밍\C#\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.genruntimeconfig.cache
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.exe
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.deps.json
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.json
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.runtimeconfig.dev.json
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\bin\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.Form1.resources
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.GenerateResource.cache
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfoInputs.cache
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.AssemblyInfo.cs
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.csproj.CoreCompileInputs.cache
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.dll
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.pdb
+C:\Users\limji\OneDrive\Desktop\이중진자 프로그램 30423 임지훈\obj\Debug\netcoreapp3.1\물II_이중진자프로그램.genruntimeconfig.cache
